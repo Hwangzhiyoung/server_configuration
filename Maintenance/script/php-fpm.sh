@@ -1,0 +1,1 @@
+/usr/local/php/sbin/php-fpm -c /data/conf/php/php.ini -y /data/conf/php/php-fpm.conf
